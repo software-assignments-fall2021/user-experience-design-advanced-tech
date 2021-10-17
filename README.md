@@ -18,7 +18,7 @@
 
 ![The Sample Search Screen](/WireFrames/SampleSearch.drawio.png)
 
-![The Rating Search Screen](/WireFrames/RatingScreen.png)
+![The Rating Search Screen](/WireFrames/RatingScreen.drawio.png)
 
 ![The Final Search Screen](/WireFrames/FinalSearchScreen.drawio.png)
 
@@ -39,7 +39,7 @@
 
 ![The Password Reset Screen](/WireFrames/InitialResetPassword.drawio.png)
 
-![The Reset Screen](/WireFrames/FooBarrPasswordReset.drawio.png)
+![The Reset Screen](/WireFrames/FooBarPasswordReset.drawio.png)
 
 ![The Actual Reseting Screen](/WireFrames/InitialMessageResetPassword.drawio.png)
 
@@ -53,7 +53,7 @@
 
 ![The Initial Create Account Screen](/WireFrames/InitialCreateAccount.drawio.png)
 
-![The Foo Bar Create Account Screen](/WireFrames/FooBarrAccount.drawio.png)
+![The Foo Bar Create Account Screen](/WireFrames/FooBarAccount.drawio.png)
 
 ![The Yahoo Account Screen](/WireFrames/YahooAccount.drawio.png)
 
