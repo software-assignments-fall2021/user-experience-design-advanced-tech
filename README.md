@@ -1,7 +1,7 @@
 ## User Experience Design
 
 ### This is the site map
-![The Site Map](/Wireframes/SiteMap.drawio.png)
+![The Site Map](/WireFrames/SiteMap.drawio.png)
 
 
 
