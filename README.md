@@ -1,8 +1,6 @@
 ## User Experience Design
 
-This repository contains instructions and files for two assignments that together comprise the user experience design phase of a web app.
+### This is the site map
+![alt text](/Users/siddharthdatar/Desktop/WireFrames/SiteMap.drawio.png)
 
-Replace the contents of this file with the completed assignments, as described in:
 
-- [app map and wireframe instructions](./instructions-app-map-wireframe.md).
-- [prototype instructions](./instructions-prototype.md)
