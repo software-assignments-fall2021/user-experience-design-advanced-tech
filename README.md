@@ -1,6 +1,7 @@
 ## User Experience Design
 
 ### This is the site map
-![alt text](/Users/siddharthdatar/Desktop/WireFrames/SiteMap.drawio.png)
+![The Site Map](/Users/siddharthdatar/SoftEng/user-experience-design-advanced-tech/WireFrames/SiteMap.drawio.png)
+
 
 
