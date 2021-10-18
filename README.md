@@ -14,14 +14,21 @@ Note: as per design advice, the "Explore" button does not prompt any login - rat
 ![The Bootup Screen](/ux-design/WireFrames/BootupPage.png)
 
 ### Search for a restaurant
-
+![Click on rating](/ux-design/WireFrames/LoadingScreen.png)
 ![The Search Screen](/ux-design/WireFrames/SearchScreen.drawio.png) ![The Bad Search Screen](/ux-design/WireFrames/BadSearchScreen.drawio.png) 
 ![The Error Search Screen](/ux-design/WireFrames/ErrorSearchScreen.png) ![The Sample Search Screen](/ux-design/WireFrames/SampleSearch.drawio.png) 
 ![The Rating Search Screen](/ux-design/WireFrames/RatingScreen.drawio.png) ![The Final Search Screen](/ux-design/WireFrames/FinalSearchScreen.drawio.png)
 
 The search bar has three options: location, food type, and rating. The user shall have the option to apply as many as 3 filters to the search.
 
-### Add Loading Screen and Restaurant and Dish profiles here
+### Add a rating
+
+![Blank Rating](/ux-design/WireFrames/enter-rating.png) ![Click to add rating](/ux-design/WireFrames/blank-rating.png)
+ ![Thank you](/ux-design/WireFrames/submit-rating.png) ![Click to add rating](/ux-design/WireFrames/thank-you-rating.png)
+ 
+ Here, the user will have the option to tap on the button to add their rating and send their rating to the server for all of the rating to be taken into account.
+
+### Restaurant and Dish Profiles
 
 ![Screen with all of the Restaurant Options](/ux-design/WireFrames/LoadingScreen.png) ![Restaurant Profile](/ux-design/WireFrames/Restaurant-Profile.png) 
 ![Order Dish](/ux-design/WireFrames/Order-Dish.png) ![Uber Confirmation](/ux-design/WireFrames/Uber-confirmation.png) 
