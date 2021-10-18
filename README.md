@@ -29,6 +29,18 @@ https://invis.io/T211VHDEB6E9
 
 ### Add Loading Screen and Restaurant and Dish profiles here
 
+![Screen with all of the Restaurant Options](/WireFrames/LoadingScreen.png)
+
+![Restaurant Profile](/WireFrames/Restaurant-Profile.png)
+
+![Order Dish](/WireFrames/Order-Dish.png)
+
+![Uber Confirmation](/WireFrames/Uber-confirmation.png)
+
+![GrubHub Confirmation](/WireFrames/GrubHub-confirmation.png)
+
+![DoorDash Confirmation](/WireFrames/Doordash-confirmation.png)
+
 ### Now for Foo Bar!
 
 ![The Initial Account Screen](/WireFrames/InitialAccountScreen.drawio.png)
