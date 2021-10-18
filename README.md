@@ -5,7 +5,7 @@
 https://invis.io/T211VHDEB6E9
 
 ### This is the site map
-![The Site Map](/WireFrames/SiteMap.drawio.png)
+![The Site Map](/ux-design/SiteMap.png)
 
 
 ### When the user boots up the app, this is what they see
